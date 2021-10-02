@@ -202,13 +202,13 @@ header {
   box-shadow: none;
 }
 
-footer img {
-  width: 125px;
-}
-
 footer p {
   color: #b3aeb5;
   font-size: 12px;
+}
+
+span {
+  color: white;
 }
 
 footer {
