@@ -1,3 +1,13 @@
+/* Untuk Responsive Header */
+@media (max-width: 670px) {
+ .header-right {
+   display: none;
+  }
+ .menu-icon {
+   display: block;
+  }
+}
+  
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
   .top-wrapper h1 {
