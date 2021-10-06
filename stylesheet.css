@@ -97,6 +97,10 @@ header {
   z-index: 10;
 }
 
+.menu-icon {
+ display: none; 
+}
+
 .header-left {
   float: left;
 }
